@@ -1,7 +1,8 @@
-package com.xodus.weatheranimation
+package com.xodus.sample
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.xodus.weatheranimation.WeatherAnimation
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
