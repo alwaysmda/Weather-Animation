@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.WeatherAnimation">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+</resources>
